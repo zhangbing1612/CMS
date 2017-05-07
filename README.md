@@ -1,13 +1,2 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title></title>
-	</head>
-	<body>
-		<img src="" />
-
-	
-		
-	</body>
-</html>
+# 标题
+## 段落
